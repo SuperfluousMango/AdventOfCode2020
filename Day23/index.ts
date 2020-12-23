@@ -1,7 +1,5 @@
 import { inputData } from './data';
 
-const PLAYER_1_RECURSION_WIN = Infinity;
-
 console.log(`Puzzle A solution: ${puzzleA()}`);
 console.log(`Puzzle B solution: ${puzzleB()}`);
 
